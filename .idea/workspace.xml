@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da575f5d-be24-4b26-936e-331dbfed1f62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hDb4e1UWoWsdMYBjVRJL7lg9Zt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da575f5d-be24-4b26-936e-331dbfed1f62" name="Default Changelist" comment="" />
+      <created>1599548421028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599548421028</updated>
+      <workItem from="1599548422526" duration="5141000" />
+      <workItem from="1599638041494" duration="5508000" />
+      <workItem from="1600150792353" duration="7385000" />
+      <workItem from="1600242826520" duration="5360000" />
+      <workItem from="1600249250069" duration="32000" />
+      <workItem from="1600847902578" duration="4584000" />
+      <workItem from="1601363347106" duration="34000" />
+      <workItem from="1601971101838" duration="1201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="324" width="491" height="395" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600158660860">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="709" y="324" width="491" height="395" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1044@0.0.1920.1044" timestamp="1600158660860" />
+    <state x="698" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600158718088">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="698" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1600158718088" />
+    <state x="748" y="266" key="FileChooserDialogImpl" timestamp="1600853681325">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="748" y="266" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1600853681325" />
+    <state x="624" y="238" key="run.anything.popup" timestamp="1600852013704">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="624" y="238" key="run.anything.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1600852013704" />
+    <state x="671" y="263" width="672" height="678" key="search.everywhere.popup" timestamp="1600158486560">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="671" y="263" width="672" height="678" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1600158486560" />
+  </component>
+</project>
